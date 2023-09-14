@@ -17,12 +17,9 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 - 🔭 I’m currently working on Django (DRF)
-- 👯 I’m looking to collaborate on [StarByFaceBot](https://t.me/StarByFaceBot)
 
 - 💬 Ask me about **Python, Django, Sql, PostgreSQL, Telegram Bot**
-- 📰 I regularly write articles on [@PythonGuy](https://t.me/PythonGuy)
 - 📫 How to reach me [**maxmudjonovvalijon@gmail.com**]
-
 - 📄 Know about my experiences by this [**Resume**](https://github.com/FBR1708/My_resume/blob/master/resume.pdf)
 
 
