@@ -54,8 +54,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![Snake](https://profile-readme-generator.com/assets/snake.svg)]
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FBR1708ons=true&locale=en&layout=compact" alt="FBR1708" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FBR1708&show_icons=true&locale=en" alt="FBR1708" /></p>
